@@ -2,7 +2,7 @@
 name: Open source software
 about: To detail open source software created while studing at a South African tertiary
   institution
-title: ''
+title: "[Software] "
 labels: ''
 assignees: ''
 
