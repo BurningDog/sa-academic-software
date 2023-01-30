@@ -1,13 +1,13 @@
 ---
-name: University contract regarding intellectual property
-about: Add the applicable part from a university contract
-title: "[Contract] "
+name: Tertiary institution contract regarding intellectual property
+about: Add the applicable part from a tertiary institution contract
+title: "[New contract] "
 labels: ''
 assignees: ''
 
 ---
 
-**Name of the university**
+**Name of the tertiary institution**
 
 **Year the contract was created**
 
