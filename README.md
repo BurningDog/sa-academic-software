@@ -17,7 +17,7 @@ With regards to open source software, this raises the question, "Who has managed
 
 ## List of open source software created by students while at South African universities
 
-* [cilib](software/cilib.md), created by [Gary Pamparà](https://github.com/gpampara): `Typesafe, purely functional Computational Intelligence`. Initially GPL 3.0, now Apache License.
+* [cilib](software/cilib.md), created by [Edwin Peer](https://up-za.academia.edu/EdwinPeer) and maintained by [Gary Pamparà](https://github.com/gpampara): `Typesafe, purely functional Computational Intelligence`. Initially GPL 3.0, now Apache License.
 
 ### Adding software
 
